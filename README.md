@@ -1,3 +1,7 @@
+# Hi I am Md Tarique Hasan ✋
+
+# Learn💡, Eat🍽️, Sleep😴, code📟 and Repeat♺
+
 # 💫 About Me:
 🖥️I am a Full-Stack </> web developer 👨🏻‍💻.<br>👨🏻‍🎓I have completed my 🎓BTech in 🤖 Electronics and Communication Engineering at the SRM Institute of Science and Technology 🏛️.<br>🦾Currently, I am doing Machine Learning 👾 and Artificial Intelligence 🧠.<br>📲I am also exploring React Native ⚛️ for Android development.<br>❤️Due to my love for mathematics 🔢, I am interested in problem-solving 🧮.<br>📡I am also very interested in VLSI ⚙️ and IOT 🌐, hence I will explore them in the future 🚀.
 
